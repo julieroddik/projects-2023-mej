@@ -1,9 +1,9 @@
-# \[Group name\]
+# \[MEJ\]
 
 **Group members:**
-- A
-- B
-- C
+- Emilie Elisabeth Dalhoff
+- Julie Margrethe Vihrenfeldt Røddik
+- Mads Christian Sandager
 
 This repository contains  
 1. Inaugural project. 
