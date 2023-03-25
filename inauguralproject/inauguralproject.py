@@ -255,3 +255,5 @@ class HouseholdSpecializationModelClass:
         ax.set_xlabel('$log(\omega_F/\omega_M)$')
         ax.set_ylabel('$log(H_F/H_M)$')
 
+
+
